@@ -9,5 +9,6 @@ categories: Products
 
 image:
     thumb: shopping.jpg
+    header_bg: road_big.jpg
 ---
 

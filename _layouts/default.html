@@ -5,15 +5,17 @@
 
   <body>
 
-<!--     {% include header.html %} -->
+    <div class="demo-blog demo-blog--blogpost mdl-layout mdl-js-layout has-drawer is-upgraded">
+      <main class="mdl-layout__content">
 
-    <div class="page-content">
-      <div class="wrapper">
         {{ content }}
-      </div>
-    </div>
 
- 
+
+    {% include footer.html %}
+
+       </main>
+      <div class="mdl-layout__obfuscator"></div>
+    </div>
 
   </body>
 

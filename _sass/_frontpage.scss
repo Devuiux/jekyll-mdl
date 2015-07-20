@@ -193,9 +193,9 @@ body {
       order: -1;
     }
   }
-  .coffee-pic .mdl-card__media {
-    background-image: url('../images/coffee.jpg');
-  }
+  // .coffee-pic .mdl-card__media {
+  //   background-image: url('../images/{{page.widget-1.image}}');
+  // }
   .something-else {
     .mdl-card__media {
       display: -webkit-box;
@@ -239,9 +239,9 @@ body {
       border-bottom-right-radius: 2px;
     }
   }
-  .on-the-road-again .mdl-card__media {
-    background-image: url('../images/road.jpg');
-  }
+  // .on-the-road-again .mdl-card__media {
+  //   background-image: url('../images/road.jpg');
+  // }
   .shopping .mdl-card__media {
     background-image: url('../images/shopping.jpg');
   }

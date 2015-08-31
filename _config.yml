@@ -13,9 +13,11 @@ github_username:  devuiux
 # Build settings
 markdown: kramdown
 
+url: "https://devuiux.github.io/jekyll-mdl"
+urlimg: "https://devuiux.github.io/jekyll-mdl/images/"
 
-url: "http://localhost:4000"
-urlimg: "http://localhost:4000/images"
+# url: "http://localhost:4000"
+# urlimg: "http://localhost:4000/images"
 
 # Outputting
 permalink: /:categories/:title/

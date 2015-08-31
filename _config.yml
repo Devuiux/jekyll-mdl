@@ -14,7 +14,7 @@ github_username:  devuiux
 markdown: kramdown
 
 url: "https://devuiux.github.io/jekyll-mdl"
-urlimg: "https://devuiux.github.io/jekyll-mdl/images/"
+urlimg: "https://devuiux.github.io/jekyll-mdl/images"
 
 # url: "http://localhost:4000"
 # urlimg: "http://localhost:4000/images"
